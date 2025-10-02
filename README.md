@@ -1,6 +1,3 @@
-### Hi there 👋
-I am currently working on machine learning for games (reinforcement learning)  
-I have created some pretty cool machine learning projects like the [covid tracker](https://github.com/sujaykonda/COVID-19-cases)  
-You can see more of how it works in the readme  
-I also have created some pretty cool minecraft mods like [money making maker](https://github.com/sujaykonda/money-making-maker-mod)  
-This mod is a hypixel skyblock mod. Check out more in its readme  
+### Hello There
+I love participating competitive programming contests (14th at ICPC WF, USACO Finalist): [codeforces](https://codeforces.com/profile/kondasujay2)
+check out my Competitive Programming Library [cplib](https://github.com/sujaykonda/cplib).
